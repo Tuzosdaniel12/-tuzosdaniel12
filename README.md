@@ -8,6 +8,7 @@ environment that developed my leadership, communication, time management skills 
 adjust with any diverse group. After learning how to code I haved devoted my life to expanding my knowledge in coding.
 
 In my Freetime I love to spend time with my family, love to spend time on mantining my yard look beutiful, and love to play video games.
+
 --------
 
 ## &#x1f4c8; My GitHub Stats
