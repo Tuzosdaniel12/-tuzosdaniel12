@@ -5,7 +5,7 @@ problem solving and analytical skills to create effective and user-friendly appl
 environment that developed my leadership, communication, time management skills to effectively work or
 adjust with any diverse group. After learning how to code I haved devoted my life to expanding my knowledge in coding.
 
-In my Freetime I love to spend time with my family, mantining my yard look beutiful, and playing video games.
+In my Freetime I love to spend time with my family, mantining my beutiful yard, and playing video games. also love hanging out with friends, always looking for the next challange in life.
 
 --------
 
