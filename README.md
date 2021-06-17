@@ -13,7 +13,7 @@ In my Freetime I love to spend time with my family, mantining my beutiful yard, 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuzosdaniel12&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuzosdaniel12&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuzosdaniel12&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 --------
 
