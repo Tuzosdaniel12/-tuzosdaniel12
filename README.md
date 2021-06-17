@@ -20,8 +20,7 @@ In my Freetime I love to spend time with my family, love to spend time on mantin
 
 🧰 Toolbox
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css" alt="CSS Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="CSS Logo" width="50" height="50"/>
 
 --------
 
