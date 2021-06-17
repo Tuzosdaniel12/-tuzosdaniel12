@@ -1,11 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Daniel Soledad!
 
-Full Stack Web Developer with a background in Food and Beverage industry. Ready to use my effective
-problem solving and analytical skills to create effective and user-friendly applications. Worked in high stress
-environment that developed my leadership, communication, time management skills to effectively work or
-adjust with any diverse group. After learning how to code I haved devoted my life to expanding my knowledge in coding.
+Full Stack Web Developer with a background in the Food and Beverage industry. Ready to use my effective problem-solving and analytical skills to create user-friendly applications. Accustomed to high-stress work environments and guiding diverse groups in leadership roles that require accurate communication and strict time management.
 
-In my Freetime I love to spend time with my family, mantining my beutiful yard, and playing video games. also love hanging out with friends, always looking for the next challange in life.
+After learning how to code I haved devoted my life to expanding my knowledge in coding, meeting each new challenge with enthusiasm. In my free time I enjoy spending time with my family, maintaining my beautiful yard, and playing video games.
 
 --------
 
