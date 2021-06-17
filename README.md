@@ -1,5 +1,3 @@
-# -tuzosdaniel12
-
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Daniel Soledad!
 
 Full Stack Web Developer with a background in Food and Beverage industry. Ready to use my effective
