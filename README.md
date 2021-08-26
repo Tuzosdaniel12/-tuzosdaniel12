@@ -8,7 +8,7 @@ After learning how to code I haved devoted my life to expanding my knowledge in 
 --------
 
 ## &#x1f4c8; My GitHub Stats
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuzosdaniel12&layout=compact&hide=CSS,html)](https://github.com/Tuzosdaniel12/github-readme-stats)  [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuzosdaniel12&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuzosdaniel12&theme=algolia&hide=CSS,html)](https://github.com/Tuzosdaniel12/github-readme-stats)  [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuzosdaniel12&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 --------
 
 ## 🧰 Toolbox
