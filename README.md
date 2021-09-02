@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Daniel Soledad!!! 
-[![Portfolio](https://img.shields.io/badge/Portfolio-maroon?style=for-the-badge&logo=&logoColor=464647)](https://daniel-soledad.herokuapp.com/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-soledad-1834a61b3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8jusDrCiRMyQqnN8jT%2F05Q%3D%3D)
+[![Portfolio](https://img.shields.io/badge/Portfolio-maroon?style=for-the-badge&logo=&logoColor=464647)](https://www.daniel-soledad.dev/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-soledad-1834a61b3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8jusDrCiRMyQqnN8jT%2F05Q%3D%3D)
 
 Full Stack Web Developer with a background in the Food and Beverage industry. Ready to use my effective problem-solving and analytical skills to create user-friendly applications. Accustomed to high-stress work environments and guiding diverse groups in leadership roles that require accurate communication and strict time management.
 
