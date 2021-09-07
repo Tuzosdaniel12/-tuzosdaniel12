@@ -3,8 +3,6 @@
 
 Full Stack Web Developer with a background in the Food and Beverage industry. Ready to use my effective problem-solving and analytical skills to create user-friendly applications. Accustomed to high-stress work environments and guiding diverse groups in leadership roles that require accurate communication and strict time management.
 
-After learning how to code I haved devoted my life to expanding my knowledge in coding, meeting each new challenge with enthusiasm. In my free time I enjoy spending time with my family, maintaining my beautiful yard, and playing video games.
-
 --------
 
 ## &#x1f4c8; My GitHub Stats
