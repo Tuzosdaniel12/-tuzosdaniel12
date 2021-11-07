@@ -1,3 +1,5 @@
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tuzosdaniel12.visitor-badge)
+
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Daniel Soledad!!! 
 [![Portfolio](https://img.shields.io/badge/Portfolio-maroon?style=for-the-badge&logo=&logoColor=464647)](https://www.daniel-soledad.dev/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-soledad-1834a61b3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8jusDrCiRMyQqnN8jT%2F05Q%3D%3D)
 
@@ -15,5 +17,5 @@ Full Stack Engineer who is a fast learner and critical thinker. Uses analytical 
 
 --------
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+
 
