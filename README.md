@@ -2,7 +2,6 @@
 
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there I'm <a href="https://www.daniel-soledad.dev" target="_blank">Daniel Soledad</a> 
 
-<a href="https://www.daniel-soledad.dev" target="_blank">[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-soledad-1834a61b3/)</a> 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-soledad-1834a61b3/)
 [![Website Badge](https://img.shields.io/badge/Portfolio-e4405f?style=flat-square&logo=google-chrome&logoColor=white)](https://www.daniel-soledad.dev/)
 
