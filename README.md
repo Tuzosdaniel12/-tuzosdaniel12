@@ -1,11 +1,25 @@
 
 
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there I'm <a href="https://www.daniel-soledad.dev" target="_blank">Daniel Soledad</a> 
-[![Portfolio](https://img.shields.io/badge/Portfolio-maroon?style=for-the-badge&logo=&logoColor=464647)](https://www.daniel-soledad.dev/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-soledad-1834a61b3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8jusDrCiRMyQqnN8jT%2F05Q%3D%3D)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-soledad-1834a61b3/)
+[![Website Badge](https://img.shields.io/badge/Portfolio-e4405f?style=flat-square&logo=google-chrome&logoColor=white)](https://www.daniel-soledad.dev/)
+
 
 ### Welcome to my GitHub: ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tuzosdaniel12.visitor-badge)
 
 Full Stack Engineer who is a fast learner and critical thinker. Uses analytical skills to create user-friendly applications. Graduated from intense coding bootcamp and later transitioned into a tutor and TA role to teach students web development concepts. Accustomed to high-stress work environments and guiding diverse groups in leadership roles that require accurate communication and strict time management.
+
+
+**Talking about Personal Stuffs:**
+
+- 👨🏻‍💻 I’m currently working on Dockers and Java;
+- 🚀 I’m currently learning Data Structures and Algorithms
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: gapur.kassym@gmail.com;
+- 📝 [Resume](https://www.daniel-soledad.dev/docs/DanielSoledadResume.pdf).
+
+</br>
 
 --------
 
