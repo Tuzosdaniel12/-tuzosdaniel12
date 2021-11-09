@@ -1,14 +1,15 @@
 
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <a href="https://www.daniel-soledad.dev" target="_blank">Daniel Soledad</a> ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tuzosdaniel12.visitor-badge)
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there I'm <a href="https://www.daniel-soledad.dev" target="_blank">Daniel Soledad</a> 
 [![Portfolio](https://img.shields.io/badge/Portfolio-maroon?style=for-the-badge&logo=&logoColor=464647)](https://www.daniel-soledad.dev/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-soledad-1834a61b3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8jusDrCiRMyQqnN8jT%2F05Q%3D%3D)
+
+### Welcome to my GitHub: ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tuzosdaniel12.visitor-badge)
 
 Full Stack Engineer who is a fast learner and critical thinker. Uses analytical skills to create user-friendly applications. Graduated from intense coding bootcamp and later transitioned into a tutor and TA role to teach students web development concepts. Accustomed to high-stress work environments and guiding diverse groups in leadership roles that require accurate communication and strict time management.
 
 --------
 
 ## &#x1f4c8; My GitHub Stats
-📈 **My GitHub Stats:**
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuzosdaniel12&layout=compact&theme=algolia&langs_count=8&hide=CSS,html" />
