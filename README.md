@@ -16,7 +16,7 @@ Full Stack Engineer who is a fast learner and critical thinker. Uses analytical 
 - 👨🏻‍💻 I’m currently working on Dockers and Java;
 - 🚀 I’m currently learning Data Structures and Algorithms
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: gapur.kassym@gmail.com;
+- 📫 How to reach me: danielsoledad@gmail.com;
 - 📝 [Resume](https://www.daniel-soledad.dev/docs/DanielSoledadResume.pdf).
 
 </br>
