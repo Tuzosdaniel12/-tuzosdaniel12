@@ -13,7 +13,7 @@ Full Stack Engineer who is a fast learner and critical thinker. Uses analytical 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on Dockers and Java;
+- 👨🏻‍💻 I’m currently working at Sinclair Digital.
 - 🚀 I’m currently learning AWS and Terraform.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: danielsoledad@gmail.com;
